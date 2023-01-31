@@ -82,4 +82,7 @@
   <a href="https://t.me/FallenArh">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
   </a>
+  <a href="mailto:fallenarh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge">
+  </a>
 </div>
