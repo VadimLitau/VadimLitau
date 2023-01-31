@@ -76,3 +76,10 @@
     <li>WebPack</li>
   </ul>
 </div>
+
+<div align="left">
+  <h2>Контакты</h2>
+  <a href="https://t.me/FallenArh">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
+</div>
