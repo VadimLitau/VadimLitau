@@ -41,6 +41,11 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VadimLitau&show_icons=true" />
       </picture>
     </div>
+     <p>
+    <a href="https://github.r2v.ch/codewars?user=VadimLitau">
+      <img src="https://github.r2v.ch/codewars?user=VadimLitau&top_languages=true" />
+    </a>
+  </p>
   </div>
 </div>
 
@@ -85,4 +90,5 @@
   <a href="mailto:fallenarh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge">
   </a>
+
 </div>
