@@ -63,7 +63,8 @@
     <img width="32px" height="32px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png?raw=true" />
     <img width="32px" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
     <img width="32px" height="32px" src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" />
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" />
+    <img width="32px" height="32px" src="https://www.pngfind.com/pngs/m/150-1507248_image-library-stock-file-vue-js-logo-wikimedia.png" />
+    <img width="32px" height="32px" src="https://astro.build/assets/press/astro-icon-light-gradient.png" />
     
   </div>
   <ul>
